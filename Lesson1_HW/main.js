@@ -30,6 +30,11 @@ console.log(typeof cc);
 
 
 let firstName = prompt('Як вас звати?', 'Yevhenii');
+if (firstName !== 'Yevhenii') {
+    alert('Вас не так звати!');}
+else
+{alert('Ай мололдець!');
+}
 let middleName = prompt('По батькові?', 'Mikolayovich');
 let age = prompt('Скільки вам років?', '43 years old');
 let result = (`${firstName} ${middleName} ${age}`);
