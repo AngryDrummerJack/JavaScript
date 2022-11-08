@@ -48,13 +48,19 @@ let users = [
     {name: 'Stas',userName: 'User9',password: 'stasik123'},
     {name: 'Luba',userName: 'User10',password: 'luba123'},
 ]
-console.log(users[0].password);
-console.log(users[1].password);
-console.log(users[2].password);
-console.log(users[3].password);
-console.log(users[4].password);
-console.log(users[5]['password']);
-console.log(users[6]['password']);
-console.log(users[7]['password']);
-console.log(users[8]['password']);
-console.log(users[9]['password']);
+// for (let i = 0; i < users.length; i++) {
+//     const user = users[i];
+//     document.write(`<h3>${user.password}</h3>`);
+// }
+// ============= cicles test==================
+let products = [
+    {productName: 'Mouse 1', productPrice: 456, img: 'https://content.rozetka.com.ua/goods/images/big/285467015.jpg'},
+    {productName: 'Mouse 2', productPrice: 862, img: 'https://content1.rozetka.com.ua/goods/images/big/263058674.jpg'},
+    {productName: 'Mouse3', productPrice: 632, img: 'https://content1.rozetka.com.ua/goods/images/big/297261129.jpg'}
+];
+for (let r = 0; r < products.length; r++) {
+    let prod = products[r];
+    document.write(`<div class="target"><h2>${prod.productName}  ${prod.productPrice} UAH</h2>        
+    <img src="${prod.img}" alt="no image">
+</div>`)
+}
