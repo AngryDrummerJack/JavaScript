@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="Second HW">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2_HW/img/mouse1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2_HW/img/mouse2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2_HW/img/mouse3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_HW/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_HW/justForFun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_HW/main.js" afterDir="false" />
+    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="Third HW">
+      <change afterPath="$PROJECT_DIR$/Lesson4_HW/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4_HW/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2_HW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2_HW/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2_HW/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2_HW/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,24 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/JavaScript/Lesson2_HW/img",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/JavaScript/Lesson2_HW/img&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript",
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;,
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\JavaScript\Lesson2_HW\img" />
@@ -83,6 +76,8 @@
       <workItem from="1667842081409" duration="1031000" />
       <workItem from="1667933936025" duration="1597000" />
       <workItem from="1667935560837" duration="8481000" />
+      <workItem from="1667944131229" duration="437000" />
+      <workItem from="1668094892306" duration="4659000" />
     </task>
     <task id="LOCAL-00001" summary="Fin">
       <created>1667337474932</created>
@@ -105,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667527761304</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third HW">
+      <created>1667944347202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667944347202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +128,7 @@
     <MESSAGE value="Fin" />
     <MESSAGE value="Trying if/else" />
     <MESSAGE value="Second HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second HW" />
+    <MESSAGE value="Third HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third HW" />
   </component>
 </project>
