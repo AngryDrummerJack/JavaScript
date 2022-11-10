@@ -55,13 +55,15 @@ while (i<famousBands.length) {
 //     </ul>
 //
 // замість 'ITEM OF ARRAY' підставити елемент з масиву щоб получився цілий список з даними з масиву
-    let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
+let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
+document.write(`<ul>`)
 for (let j = 0; j < listOfItems.length; j++) {
-     const listOfItem = listOfItems[j];
-    document.write(`<ul>
-        <li>${listOfItem}</li>
-        </ul>`);
+    const listOfItem = listOfItems[j];
+    document.write(`
+        <li>${listOfItem}</li>`);
 }
+document.write(`</ul>`)
+
 
 //-----------------------------------------------
 //
