@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="Forth HW (part 2)">
-      <change afterPath="$PROJECT_DIR$/Lesson4_HW/addtask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_HW/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_HW/main.js" afterDir="false" />
+    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="HW 5 1.1">
+      <change afterPath="$PROJECT_DIR$/Lesson5_HW/addTask.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4_HW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4_HW/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_HW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_HW/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_HW/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_HW/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,9 @@
       <workItem from="1668377844186" duration="190000" />
       <workItem from="1668378056172" duration="8647000" />
       <workItem from="1668386805231" duration="434000" />
-      <workItem from="1668547867107" duration="11156000" />
+      <workItem from="1668547867107" duration="12061000" />
+      <workItem from="1668711726889" duration="7368000" />
+      <workItem from="1668797597603" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="Fin">
       <created>1667337474932</created>
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668103848158</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HW 5">
+      <created>1668559340897</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668559340897</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +169,8 @@
     <MESSAGE value="Third HW" />
     <MESSAGE value="Forth HW" />
     <MESSAGE value="Forth HW (part 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forth HW (part 2)" />
+    <MESSAGE value="HW 5" />
+    <MESSAGE value="HW 5 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 5 1.1" />
   </component>
 </project>

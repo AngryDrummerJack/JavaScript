@@ -1,8 +1,8 @@
 // - створити функцію яка обчислює та повертає площу прямокутника зі сторонами а і б
-function rectangle(a,b) {
+function rectAngle(a,b) {
     return a * b;
 }
-let c = rectangle(10, 20);
+let c = rectAngle(10, 20);
 console.log(c);
 
 // - створити функцію яка обчислює та повертає площу кола з радіусом r
