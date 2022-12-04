@@ -70,7 +70,7 @@ let sortNumbers = (upDown, array) => {
 console.log(sortNumbers('up', arr));
 // - створити (або згенерувати, за допомоги попередньої функції) масив рандомних цілих числових значень. відфільтрувати  його за допомоги filter,
 // залишивши тільки парні числа (без 0!)
-let filterNumbers = arr.filter((i) => i = (i % 2 == 0));
+let filterNumbers = arr.filter((i) => (i % 2 == 0));
 console.log(filterNumbers);
 // - Напишіть функцію capitalize(str), яка повертає рядок, у якому кожне слово починається з великої літери.
 

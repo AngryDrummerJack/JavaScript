@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="HW 6 (just started additional)">
+    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="HW 6 (additional day 2)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4_HW/addtask.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4_HW/addtask.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson6_HW/additional6.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_HW/additional6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,10 @@
       <workItem from="1669132556553" duration="19673000" />
       <workItem from="1669322684822" duration="131000" />
       <workItem from="1669563641675" duration="5036000" />
-      <workItem from="1669570073323" duration="865000" />
+      <workItem from="1669570073323" duration="1239000" />
+      <workItem from="1670155376999" duration="894000" />
+      <workItem from="1670156296796" duration="351000" />
+      <workItem from="1670156665220" duration="4214000" />
     </task>
     <task id="LOCAL-00001" summary="Fin">
       <created>1667337474932</created>
@@ -169,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669151298827</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW 6 (additional day 2)">
+      <created>1669571295084</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669571295084</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +209,7 @@
     <MESSAGE value="HW 5 advanced" />
     <MESSAGE value="HW 6" />
     <MESSAGE value="HW 6 (just started additional)" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW 6 (just started additional)" />
+    <MESSAGE value="HW 6 (additional day 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 6 (additional day 2)" />
   </component>
 </project>
