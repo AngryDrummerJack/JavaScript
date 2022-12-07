@@ -38,6 +38,7 @@ usersList.sort(function (a, b) {
     }
 })
 console.log(usersList);
+
 // - створити класс для об'єктів Client з полями id, name, surname , email, phone, order (поле є масивом зі списком товарів)
 class Client {
     constructor(id, name, surname, email, phone, order) {
@@ -176,19 +177,19 @@ let babys = [];
 babys.push(baby1, baby2, baby3);
 
 class Prince {
-    constructor(name,age,shoetSize) {
+    constructor(name,age,shoeSize) {
         this.name = name;
         this.age = age;
-        this.shoetSize = shoetSize;
+        this.shoeSize = shoeSize;
     }
 }
 let prince1 = new Prince('Stas', 55, 45);
 
 for (let baby of babys) {
-    if (baby.footSize === prince1.shoetSize) {
+    if (baby.footSize === prince1.shoeSize) {
         let myPrinces = baby;
         console.log(baby);
     }
 }
-let findCinderella = babys.find(value => value.footSize === prince1.shoetSize);
+let findCinderella = babys.find(value => value.footSize === prince1.shoeSize);
 console.log(findCinderella);
