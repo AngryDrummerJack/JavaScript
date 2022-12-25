@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="HW 8 v1.2">
-      <change afterPath="$PROJECT_DIR$/Lesson9_HW/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9_HW/main.js" afterDir="false" />
+    <list default="true" id="0c5aa54b-8dfc-4abb-9e70-23f2958c6426" name="Changes" comment="HW 9">
+      <change afterPath="$PROJECT_DIR$/Mini-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/userInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/userInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini-project/userinfo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +105,11 @@
       <workItem from="1670390897150" duration="173000" />
       <workItem from="1670745389810" duration="4463000" />
       <workItem from="1670749949905" duration="4506000" />
-      <workItem from="1670754774691" duration="994000" />
+      <workItem from="1670754774691" duration="1290000" />
+      <workItem from="1671922996168" duration="2958000" />
+      <workItem from="1671925985952" duration="11284000" />
+      <workItem from="1671937344423" duration="10492000" />
+      <workItem from="1671961964696" duration="10034000" />
     </task>
     <task id="LOCAL-00001" summary="Fin">
       <created>1667337474932</created>
@@ -207,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670391051074</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="HW 9">
+      <created>1670756027965</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670756027965</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +256,7 @@
     <MESSAGE value="HW 4 (additional)" />
     <MESSAGE value="HW 8" />
     <MESSAGE value="HW 8 v1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW 8 v1.2" />
+    <MESSAGE value="HW 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 9" />
   </component>
 </project>
